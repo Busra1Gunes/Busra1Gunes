@@ -1,23 +1,10 @@
 <h1 align="center">Hi 👋, I'm Büşra Güneş</h1>
-<h3 align="center">.NET Developer & Electrical-Electronics Engineer from Turkey</h3>
+<h3 align="center">.NET Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busra1gunes&label=Profile%20views&color=0e75b6&style=flat" alt="busra1gunes" /> </p>
 
-- 🔭 I'm currently working on [CasePilot - Legal Case Management System](https://github.com/Busra1Gunes/CasePilot)
+- 🌱  I'm currently learning **Advanced .NET Technologies**
 
-- 🌱 I'm currently learning **Computer Engineering Master's Degree & Advanced .NET Technologies**
-
-- 👯 I'm looking to collaborate on **.NET Core API projects & Enterprise application development**
-
-- 🤝 I'm looking for help with **Frontend frameworks and modern UI/UX design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Busra1Gunes](https://github.com/Busra1Gunes)
-
-- 💬 Ask me about **C#, .NET Core, MSSQL, Windows Forms, API Development**
-
-- 📫 How to reach me **busragns1999@hotmail.com**
-
-- ⚡ Fun fact **I'm both an Electrical Engineer and a passionate developer! 🔌💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
