@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CasePilot](https://github.Busra1Gunes/CasePilot)
 
-- 🌱 I’m currently learning **Computer Engineering Master's Degree & Advanced .NET Technologie**
+- 🌱 I’m currently learning Advanced .NET Technologie**
 
 - 👯 I’m looking to collaborate on **.NET Core API projects**
 
